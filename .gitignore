@@ -1,0 +1,9 @@
+cmake-build-*/
+.idea/
+*.iml
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+.DS_Store
